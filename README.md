@@ -16,7 +16,9 @@ The server can be accessed using ssh via port 2200:
 ```
 ssh user@168.62.51.177 -p 2200 -i [key path]
 ```
-it can only v=be accessed using RSA key.
+it can only be accessed using RSA key.
+
+There are only two users can access this server (main,grader).
 
 ### Used utilities
 
